@@ -3,11 +3,11 @@
 This is a repository which includes all files of projects in the `NanoDegree of Data Analyst(Advanced)`, `NanoDegree of Data Analyst(Basic)`, and `NanoDegree of Intro to Python`. And all this files belongs to `Zhenwen Xu`.
 
 ## About Author
-First name: Zhenwen
-Last name: Xu
-Sex: Male
-E-mail: <xzw6jp@gmail.com>
-LinkedIn: <https://www.linkedin.com/in/zhenwen-xu-527757156/>
+First name: `Zhenwen`  
+Last name: `Xu`  
+Sex: `Male`  
+E-mail: <xzw6jp@gmail.com>    
+LinkedIn: <https://www.linkedin.com/in/zhenwen-xu-527757156/>    
 
 ## Certification of NanoDegree of Data Analyst(Advanced)
 ![NanoDegree of Data Analyst(Advanced)](NanoDegree_of_Data_Analysis_Advanced.jpg)
